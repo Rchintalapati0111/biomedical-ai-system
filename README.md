@@ -4,13 +4,13 @@
 
 ## Key Features
 
-- ** Multi-Agent Architecture**: Literature scanning, evidence validation, and target recommendation agents
-- ** PubMed Integration**: Real-time access to 30+ million biomedical publications
-- ** AI-Powered Analysis**: Claude and GPT-4 integration for intelligent literature interpretation
-- ** Target Discovery**: Automated molecular target identification with confidence scoring
-- ** HIPAA Compliance**: Secure data handling with encryption and comprehensive audit logging
-- ** Interactive Dashboard**: Professional Streamlit web interface with analytics
-- ** Performance Gains**: 30% improvement in insight precision, 60% reduction in research time
+-  ** Multi-Agent Architecture**: Literature scanning, evidence validation, and target recommendation agents
+-  ** PubMed Integration**: Real-time access to 30+ million biomedical publications
+-  ** AI-Powered Analysis**: Claude and GPT-4 integration for intelligent literature interpretation
+-  ** Target Discovery**: Automated molecular target identification with confidence scoring
+-  ** HIPAA Compliance**: Secure data handling with encryption and comprehensive audit logging
+-  ** Interactive Dashboard**: Professional Streamlit web interface with analytics
+-  ** Performance Gains**: 30% improvement in insight precision, 60% reduction in research time
 
 ## System Architecture
 
